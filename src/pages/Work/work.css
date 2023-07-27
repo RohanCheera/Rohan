@@ -1,0 +1,24 @@
+.work{
+  position: relative;
+  background-color: rgb(23, 23, 57);
+  display: grid;
+  grid-template-columns: 1;
+  place-items: center;
+  overflow: hidden;
+}
+.work-card{
+  /* margin-top: 20px; */
+  min-width: 13rem;
+  max-width: 22rem;
+  height: 15rempx;
+  margin: 2rem;
+  overflow-y: hidden;
+  position: relative;
+}
+
+@media (max-width: 767px){
+  .work-card{
+    margin: .5rem;
+  }
+
+}
