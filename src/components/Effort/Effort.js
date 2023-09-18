@@ -17,7 +17,7 @@ function Effort() {
       </div>
       <div className='effort-box '>
 
-        <Link to='https://leetcode.com/Cheera_Rohan/'>
+        <Link to='https://leetcode.com/Rohan_Cheera/'>
           <Card className='effort-card ec2' />
         </Link>
 
