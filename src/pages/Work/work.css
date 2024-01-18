@@ -1,19 +1,28 @@
 .work{
   position: relative;
   background-color: rgb(23, 23, 57);
-  display: grid;
-  grid-template-columns: 1;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
 }
 .work-card{
   /* margin-top: 20px; */
-  min-width: 13rem;
-  max-width: 22rem;
-  height: 15rempx;
+  min-width: 18rem;
+  max-width: 42rem;
+  height: 15rem;
   margin: 2rem;
   overflow-y: hidden;
   position: relative;
+  display: flex;
+}
+.workcard-content-left{
+  width: 60%;
+  
+}
+.work-card-content{
+width: 40%;
 }
 
 @media (max-width: 767px){
