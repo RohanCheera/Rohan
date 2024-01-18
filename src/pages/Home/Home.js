@@ -33,7 +33,7 @@ function Home() {
             Ro<span className='sp-title'>han</span>
           </h1>
           <p>
-            I help companies to make beautiful websites.
+          I empower companies through data-driven excellence as a passionate Data Enthusiast.
           </p>
           
           <div className='hm-btns'>
