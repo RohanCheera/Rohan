@@ -12,7 +12,7 @@ import Layout from './pages/Layout/Layout.js';
 function App() {
   return (
     <div className="App">
-      <Routes>
+      <Routes >
         <Route path='/' element={<Layout/>}>
           <Route path='/about' element={<About/>}/>
           <Route index element={<Home/>}/>
