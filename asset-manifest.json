@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rohan/static/css/main.57446676.css",
+    "main.js": "/Rohan/static/js/main.e993f015.js",
+    "static/media/contactme.png": "/Rohan/static/media/contactme.d4b1cc2554b130f1352f.png",
+    "static/media/tea.png": "/Rohan/static/media/tea.3c4b0cc716ca9e14e65c.png",
+    "static/media/rohanw.png": "/Rohan/static/media/rohanw.eb5e2a6b83ff0ef5d692.png",
+    "static/media/mkaggle.png": "/Rohan/static/media/mkaggle.b560096e4fd271616599.png",
+    "static/media/redux.png": "/Rohan/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Rohan/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Rohan/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/css.png": "/Rohan/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Rohan/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/matlab.jfif": "/Rohan/static/media/matlab.347f57064e19a107e012.jfif",
+    "static/media/excel.jfif": "/Rohan/static/media/excel.a3640df5b2cd3a2f9369.jfif",
+    "static/media/pbi.jfif": "/Rohan/static/media/pbi.ed6e8fb8006b7e10e107.jfif",
+    "index.html": "/Rohan/index.html",
+    "main.57446676.css.map": "/Rohan/static/css/main.57446676.css.map",
+    "main.e993f015.js.map": "/Rohan/static/js/main.e993f015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57446676.css",
+    "static/js/main.e993f015.js"
+  ]
+}
